@@ -5,7 +5,7 @@
 #define FREQUENCY  915.0 
 
 // --- IRRIGATION CONFIGURATION ---
-const int MOISTURE_THRESHOLD = 40; // Irrigates if humidity is below 40%
+const int MOISTURE_THRESHOLD = 50; // Irrigates if humidity is below 50%
 
 // --- PINS ---
 #define LCD_SDA     19  
